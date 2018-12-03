@@ -22,5 +22,5 @@ No.	|	Category	|	Name	|	Num	|	Unit Price	|	 Price 	|	Description	|	Seller	|	Link
 20	|	Electronics	|	Arduino Uno	|	1	|	-	|	 - 	|		|		|	
 21	|	Electronics	|	CNC Shield	|	1	|	 18,000 	|	 18,000 	|	CNC Shield + A4988 Driver x 4 + CH340G(Arduino Uno Compatible)	|	미스터조각기	|	https://smartstore.naver.com/mrcnc/products/760201081
 22	|	Electronics	|	12V 2A Wall Transformer	|	1	|	$10.99 	|	 12,436 	|		|	amazon	|	https://www.amazon.com/Adapter-100-240V-Transformers-Switching-Adaptor/dp/B019Q3U72M
-23	|	Electronics	|	2-4 limit switches	|	-	|150원	| 600원 |	2 종류가 있음	| 3D몰 |	https://smartstore.naver.com/3dp/products/265616555
-24	|	Electronics	|	2-4 limit switches	|	-	|1000원 | 4000원 |	2 종류가 있음	| 3D몰 |	https://smartstore.naver.com/3dp/products/262303632
+23	|	Electronics	|	2-4 limit switches	|	4	|150원	| 600원 |	2 종류가 있음	| 3D몰 |	https://smartstore.naver.com/3dp/products/265616555
+24	|	Electronics	|	2-4 limit switches	|	4	|1000원 | 4000원 |	2 종류가 있음	| 3D몰 |	https://smartstore.naver.com/3dp/products/262303632
